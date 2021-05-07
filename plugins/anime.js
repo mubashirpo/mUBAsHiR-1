@@ -1,8 +1,13 @@
-/* Codded by @TOXIC-DEVIL
-Telegram: t.me/toxicdevil
-Instagram: www.instagram.com/toxic_devil_abhinav
-Special Thanks:
-@Phaticusthiccy for Unlimitted Helps
+/* Copyright (C) 2020 TOXIC DEVIL
+
+CODDED BY TOXIC DEVIL
+
+Licensed under the  GPL-3.0 License;
+
+you may not use this file except in compliance with the License.
+WhatsAsenaPublic - TOXIC DEVIL
+
+@Phaticusthiccy Thank You For The Unlimitted Helps 
 */
 
 const Asena = require('../events');
