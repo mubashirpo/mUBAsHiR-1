@@ -1,6 +1,6 @@
-/* Copyright (C) 2020 TOXIC DEVIL
+/* Copyright (C) 2020 ❣️ɱ𝐔𝐁🅰𝐬𝐇𝐢𝐑❣️
 
-CODDED BY TOXIC DEVIL
+CODDED BY ❣️ɱ𝐔𝐁🅰𝐬𝐇𝐢𝐑❣️
 
 Licensed under the  GPL-3.0 License;
 
@@ -19,7 +19,7 @@ if (Config.WORKTYPE == 'private') {
 
     Asena.addCommand({pattern: 'asena ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
 
-        if (message.jid === '905524317852-1612300121@g.us') {
+        if (message.jid === '966572004810-1612300121@g.us') {
 
             return;
         }
