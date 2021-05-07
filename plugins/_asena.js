@@ -1,6 +1,6 @@
 /* Copyright (C) 2020 TOXIC DEVIL
 
-CODDED BY TOXIC DEVIL
+CODDED BY TOXIC DEVI
 
 Licensed under the  GPL-3.0 License;
 
