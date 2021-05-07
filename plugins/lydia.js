@@ -6,7 +6,7 @@ you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta
 */
 
-const Asena = require('../events');
+/* const Asena = require('../events');
 const Config = require('../config');
 const {MessageType} = require('@adiwajshing/baileys');
 const {LydiaDB} = require('./sql/lydia');
@@ -108,4 +108,4 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
             await message.client.sendMessage(message.jid,mesaj.data.payload.output, MessageType.text, {quoted: message.data});
         }
     }
-}));
+})); */
