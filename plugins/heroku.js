@@ -1,8 +1,11 @@
-/* 
-Heroku plugin for WhatsAsena - W4RR10R
+/* Copyright (C) 2020 TOXIC DEVIL
+
+CODDED BY TOXIC DEVIL
+
 Licensed under the  GPL-3.0 License;
+
 you may not use this file except in compliance with the License.
-WhatsAsena - Yusuf Usta
+WhatsAsenaPublic - TOXIC DEVIL
 */
 
 const Asena = require('../events');
