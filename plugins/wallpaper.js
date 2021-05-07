@@ -1,9 +1,11 @@
-/* Codded by @phaticusthiccy
-Telegram: t.me/phaticusthiccy
-Instagram: www.instagram.com/kyrie.baran
+/* Copyright (C) 2020 TOXIC DEVIL
 
-Special Thanks:
-@Unique_hunter for Helps
+CODDED BY TOXIC DEVIL
+
+Licensed under the  GPL-3.0 License;
+
+you may not use this file except in compliance with the License.
+WhatsAsenaPublic - TOXIC DEVIL
 */
 
 const Asena = require('../events');
