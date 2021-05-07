@@ -89,7 +89,11 @@ $ node qr.js
 ### WhatsNew
 
 ```
- .notes = Fixed notes ✅🛠
+ WhatsAsenaPublic = 📢 WhatsAsenaPublic Version 1.2 Is Available Now!
+
+.tta = Added New Command TTA 🥳🥳
+
+.unaudio = Added New Command UNAUDIO 🥳🥳
 
 ```
 
@@ -152,6 +156,9 @@ $ node qr.js
 | NeonLight Plugin | ✅ | 1.6 |
 | 3dtext Plugin | ✅ | 1.6 |
 | burn Plugin | ✅ | 1.6 |
+| .tta | ✅ | 1.2 |
+| .unaudio | ✅ | 1.2 |
+| .bot | ✅ | 1.6 |
 
 ## Plugin Descriptions
 
@@ -241,6 +248,9 @@ $ node qr.js
 | .ninjalogo | Added the given text to the ninja logo |
 | .neonlight | Converts the text into neon light image |
 | .3dtext | Converts the text into neon light image |
+| .tta | It Converts Text To Audio |
+| .unaudio | It Converts Sound Recording To Audio |
+| .bot | It Is Used To Chat With an ai bot |
 
 ### XMedia Plugin Commands 🛠️
 | Command 💻 | Description ℹ️ |
